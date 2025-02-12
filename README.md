@@ -1,1 +1,1 @@
-# odin-recipes
+Primer proyecto de odin project donde pondré en practica el uso de algunas etiquetas HTML importantes para la construcción de cualquier sitio web
