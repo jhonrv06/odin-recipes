@@ -1,0 +1,14 @@
+header, article{
+    width: 600px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+h1, h2{
+    text-align: center;
+}
